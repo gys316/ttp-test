@@ -1,8 +1,11 @@
 {
   "quizs": [
     {
-      "id": 1,
-      "title": "hello"
+      id: "",
+      title: "퀴즈 제목1",
+      author: "작성자",
+      correctRate: 0,
+      tags: ["태그1", "태그2"]
     }
   ]
 }
