@@ -1,14 +1,14 @@
 {
-   "quizs": [
-      {
-         "id": "s5d1s",
-         "title": "퀴즈 제목1",
-         "author": "작성자",
-         "correctRate": 0,
-         "tags": [
-            "태그1",
-            "태그2"
-         ]
-      }
-   ]
+  "quizs": [
+    {
+      "id": "s5d1s",
+      "title": "퀴즈 제목1",
+      "author": "작성자",
+      "correctRate": 0,
+      "tags": [
+        "태그1",
+        "태그2"
+      ]
+    }
+  ]
 }
